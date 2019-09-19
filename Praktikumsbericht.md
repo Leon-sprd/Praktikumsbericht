@@ -1,6 +1,6 @@
 # Praktikumsberich von Leon
 
-## 09/16/19
+## 16.09.2019
  
 ### the first day on my internship
  
@@ -27,7 +27,8 @@ He also taught me basics about branching and the [git flow](https://nvie.com/pos
 At lunch time about twelve a.m. we walk to a chineese restaurant called [*Chinabrenner*](https://goo.gl/maps/vW7HDmo4o3poZa4s5) with an applicant for a job at Spreadshirt. About one hour later I played a "css game" to learn how about css selectors. At the end Tony showed me a program calles MacDown, which is a visiual editor for [markdown](https://de.wikipedia.org/wiki/Markdown), an text expression language. 
 > Markdown is a lightweight markup language with plain text formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. <cite> [Wikipedia](https://en.wikipedia.org/wiki/Markdown) <cite>
 
-## 09/17/19
+## 17.09.2019
+
 * stand up
 * first steps about a Computer language named Java 
 
@@ -37,7 +38,8 @@ Like yesterday we have this stand up at the same time. After that i continue pla
 
 
 
-## 09/18/19
+## 18.09.2019
+
 * lerning sth. about "Fakultät"
 * cooked curry with rice
 * intense lerning about Java with videos or sth.
@@ -46,7 +48,7 @@ Like yesterday we have this stand up at the same time. After that i continue pla
 ### day 3
 At first is the stand up. Then Tony show and repeats with me Fakultät and the other computational tasks. After lunch i learned myself some thinks about Java to have more basics. Then Jonas shows me how he debuggin some more problems. 
 
-## 09/19/19
+## 19.09.2019
 
 * learn first steps 
 * lean how to move files from MacDown to GitHub 
@@ -56,3 +58,11 @@ At first is the stand up. Then Tony show and repeats with me Fakultät and the o
 
 
 ### day 4
+
+
+
+## 19.09.2019
+ 
+* 
+
+### day 5
