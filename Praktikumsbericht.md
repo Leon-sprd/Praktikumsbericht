@@ -60,7 +60,7 @@ Like yesterday we had this so called *stand up* at the same time. After that I c
 
 Here is the function for finding a minimum number of a list of numbers
 
-```
+```java
 public static int min(int[] numbers) {
     int min = numbers[0];
     for (int i = 1; i < numbers.length; i++) {
