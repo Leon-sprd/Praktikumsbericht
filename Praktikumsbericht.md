@@ -1,3 +1,4 @@
+## Aufgaben
 
 1. Deckblatt mit enstprechendem Titel	**3Punkte**
 2. Betriebserkundung						**7Punkte**
@@ -9,18 +10,13 @@
 7. Rechtschreibung							**3Punkte**
 8. Form und Gestaltung						**..Punkte**
 
-##+
-
-
+## titel
 
 * Internship report(Praktikumsbericht)
 * Leon Kurrat
 * 9d
 * Spreadshirt 
 * from 16.09.2019-27.09.2019
-
-##+
-
 
 
 
@@ -118,12 +114,12 @@ Then he showed me how he works on Gira tickets. A bit later Nils told me somethi
 
 
 ## 20.09.2019
- 
+### day 5 Friday
 * jonas told me how to calculate volume, areas etc
 * learned how inharrity works based on geomatrical forms
 * I learned how to build tests and assert values with AssertJ
 
-### day 5 Friday
+
 
 
 
@@ -183,13 +179,8 @@ Day seven starts with the stand up, after that they all in my room had a office 
 ## 27.09.19
 ### last day
 
-* aa
+* Erkan told me how he works as a designer and what he also does
 * 
-
-
-
-#+
-#+
 
 
 
@@ -197,27 +188,18 @@ Day seven starts with the stand up, after that they all in my room had a office 
 
 
 ## Choice theme
-Der weg von einer Bestellung zum eigenenT-Shirt
-
+Der weg von deinem (eingenen) T-Shirt
 
 Es fängt damit an, das jemand nach dem Bedrucken eines T-Shirts im Internet umguckt und auf die Seite von Spreadshirt gelangt. 
 Dieser Benutzer kann sich dann entscheiden, ob er sich ein schon fertig gestaltetes T-Shirt oder ein ganz eigenes erstellen möchte. Es gibt auch die Möglichkeit, Hoddies, Jacken, Sportsachen, Tassen, Taschen und mehr selbst zu bedrucken oder schon mit fertigen Motiven auszuwählen.
+Der Druck
+
 
 
 
 
 
 spreadshop
-
-
-
-
-#+
-#+
-
-
-
-
 
 
 ## My Workspace
@@ -227,10 +209,8 @@ my workspace is a larger room where 11 large tables with Monitors on it are sort
 
  There are many different areas in this company where groups of people work in rooms like the room where I was.
 
-#+
-#+
 
-## Informations about the company
+## Information about the company
 [Spreadshirt](https://www.spreadshirt.com/company-C2410) was founded in 2002 in Leipzig, Germany. Today it is one of the world’s leading e-commerce platforms for on-demand printing of clothing and accessories.
 Sellers offer their merchandise or personalised products, showing their designs on Spreadshirt’s Marketplace or thousands of independent shops. Customers can also use the Customize Tool to create clothing and accessories with their own designs or designs from our community. This company has over 750 employees, more than 5.5 million printed products, sales of 110 million euros, 100,000 active sellers and is active in 12 languages ​​in 18 markets. Spreadshirt got two branch offices, one in Leipzig and one in USA. This company has five production sites. Two in the USA, then one in Poland, one in the Czech Republic and one in Leipzig. Click for the very interesting Company History [here](https://www.spreadshirt.com/company-history-C8651).	
 
