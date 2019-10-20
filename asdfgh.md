@@ -39,7 +39,6 @@ public class Rectangle extends Shape {
 }
 
 
-```java
     @Test
     public void testRectangle() {
 
@@ -47,7 +46,6 @@ public class Rectangle extends Shape {
         assertThat(shape.computeArea()).isEqualTo(6);
 
     }
-```
 
 
 
