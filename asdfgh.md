@@ -39,6 +39,18 @@ public class Rectangle extends Shape {
 }
 
 
+```java
+    @Test
+    public void testRectangle() {
+
+        Shape shape = new Rectangle(2, 3);
+        assertThat(shape.computeArea()).isEqualTo(6);
+
+    }
+```
+
+
+
 package shapes;
 
 public class Quadrat extends Rectangle {
